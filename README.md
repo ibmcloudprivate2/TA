@@ -19,10 +19,10 @@ gunzip -c transformationadvisor-AIX_tisco_poc.tgz | tar xf -
 cd transformationadvisor*
 ```
 
-**TIP:** View command-line options that are available for the Data Collector run:
-```sh
-./bin/transformationadvisor --help
-```
+> **TIP:** View command-line options that are available for the Data Collector run:
+> ```sh
+> ./bin/transformationadvisor --help
+> ```
 
 ## Run tool
 
@@ -50,3 +50,8 @@ The Data Collector will take some time to run. During this process, you can keep
 
 If there is a connection between your system and your new collection, the Data Collector will send your application data for you.
 
+
+
+# Resources
+
+- [Using Transformation Advisor ](https://developer.ibm.com/recipes/tutorials/using-the-transformation-advisor-on-ibm-cloud-private/)
