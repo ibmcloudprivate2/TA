@@ -2,6 +2,10 @@
 Getting results in your collection is not hard. To get started, download and run the Data Collector tool in the system your applications live.
 
 ## install
+
+> The data collector is a downloadable zip file that needs to be extracted and run on your target server where the applications you wish to migrate are located ie your application server machine. You should choose the correct data collector for your target server’s operating system.
+
+
 Once downloaded, follow the steps below.
 
 > **TIP:** The Data Collector is likely to consume a significant amount of resources while gathering data therefore, we recommend you run the tool in a pre-production environment.
@@ -25,6 +29,8 @@ cd transformationadvisor*
 > ```
 
 ## Run tool
+
+
 
 Choose one of the following accordingly.
 
