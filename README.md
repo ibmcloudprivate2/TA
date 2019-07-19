@@ -62,3 +62,4 @@ If there is a connection between your system and your new collection, the Data C
 
 - [Using Transformation Advisor ](https://developer.ibm.com/recipes/tutorials/using-the-transformation-advisor-on-ibm-cloud-private/)
 - WebSphere Application [Migration](https://developer.ibm.com/wasdev/docs/migration/), download WebSphere Application Migration Toolkit ([WAMT](https://developer.ibm.com/wasdev/downloads/#asset/tools-WebSphere_Application_Server_Migration_Toolkit))
+- TA: [How to migrate an application from WAS to Liberty on IBM Cloud Private](https://developer.ibm.com/recipes/tutorials/transformation-advisor/)
