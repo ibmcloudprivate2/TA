@@ -14,7 +14,7 @@ Once downloaded, follow the steps below.
    Then decompress the downloaded file:
 
 ```sh
-gunzip -c transformationadvisor-AIX_tisco_poc.tgz | tar xf -
+gunzip -c transformationadvisor-AIX.tgz | tar xf -
 ```
 
 2. Go to the Data Collector directory:
